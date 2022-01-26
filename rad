@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/4.png?ver=1463741192" group-title="radio" radio="true",Absolute Radio 70s
+http://ais.absoluteradio.co.uk/absolute70s.aac
